@@ -1,5 +1,5 @@
-### hdw-dubbo-ui
-- hdw-dubbo-ui基于vue、element-ui构建开发，实现后台管理前端功能，提供一套更优的前端解决方案
+### bright-dubbo-ui
+- bright-dubbo-ui基于vue、element-ui构建开发，实现后台管理前端功能，提供一套更优的前端解决方案
 - 前后端分离，通过token进行数据交互，可独立部署
 - 主题定制，通过sass变量统一一站式定制
 - 动态菜单，通过菜单管理统一管理访问路由
@@ -9,10 +9,10 @@
 
 #### 项目地址
 
- 平台  | hdw-dubbo（后端） |hdw-dubbo-ui（前端）
+ 平台  | bright-dubbo（后端） |bright-dubbo-ui（前端）
 ---|---|---
-GitHub | [https://github.com/JacksonTu/hdw-dubbo](https://github.com/JacksonTu/hdw-dubbo) |[https://github.com/JacksonTu/hdw-dubbo-ui](https://github.com/JacksonTu/hdw-dubbo-ui)
-Gitee  | [https://gitee.com/tumao2/hdw-dubbo](https://gitee.com/tumao2/hdw-dubbo) |[https://gitee.com/tumao2/hdw-dubbo-ui](https://gitee.com/tumao2/hdw-dubbo-ui)
+GitHub | [https://github.com/JacksonTu/bright-dubbo](https://github.com/JacksonTu/bright-dubbo) |[https://github.com/JacksonTu/bright-dubbo-ui](https://github.com/JacksonTu/bright-dubbo-ui)
+Gitee  | [https://gitee.com/tumao2/bright-dubbo](https://gitee.com/tumao2/bright-dubbo) |[https://gitee.com/tumao2/bright-dubbo-ui](https://gitee.com/tumao2/bright-dubbo-ui)
 
 
 #### 前端启动
