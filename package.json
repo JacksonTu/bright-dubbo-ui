@@ -77,7 +77,7 @@
     "chalk": "2.3.2",
     "chromedriver": "2.46.0",
     "copy-webpack-plugin": "4.6.0",
-    "cross-spawn": "5.1.0",
+    "cross-spawn": "6.0.6",
     "css-loader": "0.28.11",
     "eslint": "7.14.0",
     "eslint-config-standard": "10.2.1",
