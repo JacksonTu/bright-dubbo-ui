@@ -55,9 +55,6 @@ Gitee  | [https://gitee.com/tumao2/bright-dubbo](https://gitee.com/tumao2/bright
 </table>
 
 #### 技术交流
-加入QQ群和大家一起交流吹水：
-
-![qq](docs/images/QQ.png)
 
 #### 更新日志
 + v3.1.0
