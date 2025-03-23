@@ -15,24 +15,16 @@ GitHub | [https://github.com/JacksonTu/bright-dubbo](https://github.com/JacksonT
 Gitee  | [https://gitee.com/tumao2/bright-dubbo](https://gitee.com/tumao2/bright-dubbo) |[https://gitee.com/tumao2/bright-dubbo-ui](https://gitee.com/tumao2/bright-dubbo-ui)
 
 
-#### 前端启动
-    1. 安装淘宝NPM镜像
-    ```bush
-    npm install -g cnpm --registry=https://registry.npm.taobao.org
-    npm config set registry  https://registry.npm.taobao.org
-    ```
-    2. 运行
-    ```bush
-        cnpm install
-        npm run dev
-    ```
-    访问 http://localhost:8090
-
-#### 打包部署
+#### 运行与部署
+  node==14.21.3
  ```bush
+ npm cache clean --force
+ npm install --registry=https://registry.npmmirror.com --legacy-peer-deps
+ npm run dev
  npm run build  --正式环境
  npm run build -test --测试环境
  ```
+访问 http://localhost:8090
 
 #### 系统预览
 <table>
